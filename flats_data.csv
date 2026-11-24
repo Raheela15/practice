@@ -1,0 +1,101 @@
+﻿Flat_ID,Building_Name,Location,Floor,Bedrooms,Bathrooms,Area_sqft,Size_Category,Price_PKR,Availability
+FLAT-001,City Heights,"North Nazimabad, Karachi",8,2,1,650,Small,7900000,Booked
+FLAT-002,Sunrise Residency,"Gulshan-e-Iqbal, Karachi",2,2,2,830,Small,11100000,Booked
+FLAT-003,City Heights,"Clifton, Karachi",18,1,1,820,Small,19900000,Available
+FLAT-004,City Heights,"Scheme 33, Karachi",11,2,2,700,Small,8100000,Available
+FLAT-005,Green View Apartments,"Scheme 33, Karachi",12,1,1,770,Small,8000000,Available
+FLAT-006,Green View Apartments,"Scheme 33, Karachi",18,1,1,770,Small,11300000,Booked
+FLAT-007,City Heights,"Gulshan-e-Iqbal, Karachi",10,1,1,660,Small,8600000,Available
+FLAT-008,Green View Apartments,"Scheme 33, Karachi",6,4,3,2100,Luxury,23500000,Available
+FLAT-009,City Heights,"North Nazimabad, Karachi",18,1,1,840,Small,13500000,Available
+FLAT-010,Sunrise Residency,"North Nazimabad, Karachi",2,3,3,1110,Medium,15000000,Available
+FLAT-011,Ocean Tower,"Clifton, Karachi",7,2,2,710,Small,16300000,Available
+FLAT-012,Ocean Tower,"Clifton, Karachi",19,3,3,970,Medium,22600000,Available
+FLAT-013,City Heights,"North Nazimabad, Karachi",4,3,2,1750,Luxury,25400000,Available
+FLAT-014,Sunrise Residency,"Scheme 33, Karachi",17,4,3,1940,Luxury,21800000,Booked
+FLAT-015,Ocean Tower,"Scheme 33, Karachi",4,3,3,1540,Large,16500000,Available
+FLAT-016,Green View Apartments,"Gulshan-e-Iqbal, Karachi",17,3,2,1460,Large,25100000,Available
+FLAT-017,Green View Apartments,"Gulshan-e-Iqbal, Karachi",18,2,2,1010,Medium,17300000,Available
+FLAT-018,City Heights,"Gulshan-e-Iqbal, Karachi",8,3,3,1580,Large,26700000,Available
+FLAT-019,City Heights,"Clifton, Karachi",5,3,2,1740,Luxury,35500000,Booked
+FLAT-020,Green View Apartments,"Clifton, Karachi",10,3,2,1830,Luxury,42400000,Available
+FLAT-021,Sunrise Residency,"Scheme 33, Karachi",3,1,1,720,Small,9800000,Available
+FLAT-022,Sunrise Residency,"North Nazimabad, Karachi",2,2,2,900,Medium,10100000,Available
+FLAT-023,Ocean Tower,"North Nazimabad, Karachi",7,3,3,980,Medium,13000000,Available
+FLAT-024,Ocean Tower,"Scheme 33, Karachi",14,2,2,930,Medium,12200000,Booked
+FLAT-025,Green View Apartments,"Clifton, Karachi",2,1,1,850,Small,15400000,Available
+FLAT-026,City Heights,"Clifton, Karachi",5,3,3,1070,Medium,22000000,Available
+FLAT-027,Sunrise Residency,"Gulshan-e-Iqbal, Karachi",2,1,1,790,Small,10700000,Available
+FLAT-028,City Heights,"Gulshan-e-Iqbal, Karachi",13,3,3,2000,Luxury,31400000,Available
+FLAT-029,Ocean Tower,"Clifton, Karachi",10,3,3,1590,Large,31200000,Available
+FLAT-030,Green View Apartments,"Gulshan-e-Iqbal, Karachi",19,2,2,1200,Medium,15900000,Booked
+FLAT-031,City Heights,"Gulshan-e-Iqbal, Karachi",2,3,2,2020,Luxury,24600000,Available
+FLAT-032,Sunrise Residency,"North Nazimabad, Karachi",19,2,2,1020,Medium,13100000,Booked
+FLAT-033,City Heights,"Scheme 33, Karachi",7,3,3,1590,Large,18500000,Available
+FLAT-034,Ocean Tower,"Gulshan-e-Iqbal, Karachi",3,3,3,1440,Large,23600000,Available
+FLAT-035,Sunrise Residency,"Scheme 33, Karachi",5,3,3,1060,Medium,12000000,Available
+FLAT-036,Green View Apartments,"Gulshan-e-Iqbal, Karachi",20,3,3,1040,Medium,14300000,Available
+FLAT-037,City Heights,"Scheme 33, Karachi",9,1,1,680,Small,8400000,Booked
+FLAT-038,Sunrise Residency,"Gulshan-e-Iqbal, Karachi",9,3,3,1460,Large,23000000,Available
+FLAT-039,Ocean Tower,"North Nazimabad, Karachi",9,1,1,750,Small,12000000,Available
+FLAT-040,Green View Apartments,"Gulshan-e-Iqbal, Karachi",5,1,1,680,Small,11300000,Available
+FLAT-041,Sunrise Residency,"Scheme 33, Karachi",10,3,3,1780,Luxury,22300000,Booked
+FLAT-042,City Heights,"Clifton, Karachi",12,2,2,1110,Medium,23100000,Available
+FLAT-043,City Heights,"Clifton, Karachi",11,3,3,1710,Luxury,36100000,Booked
+FLAT-044,City Heights,"North Nazimabad, Karachi",16,1,1,770,Small,12200000,Available
+FLAT-045,Green View Apartments,"Clifton, Karachi",7,2,2,970,Medium,20100000,Available
+FLAT-046,Sunrise Residency,"Scheme 33, Karachi",18,3,3,1500,Large,16900000,Available
+FLAT-047,Green View Apartments,"Clifton, Karachi",20,3,3,1310,Large,29900000,Booked
+FLAT-048,Ocean Tower,"Gulshan-e-Iqbal, Karachi",9,1,1,770,Small,9300000,Booked
+FLAT-049,Green View Apartments,"Scheme 33, Karachi",3,3,2,1010,Medium,10500000,Available
+FLAT-050,Green View Apartments,"Clifton, Karachi",11,3,3,1510,Large,37400000,Available
+FLAT-051,Ocean Tower,"Scheme 33, Karachi",6,4,4,2120,Luxury,28700000,Available
+FLAT-052,Ocean Tower,"Scheme 33, Karachi",19,3,3,1360,Large,18700000,Booked
+FLAT-053,Green View Apartments,"Gulshan-e-Iqbal, Karachi",6,3,2,1060,Medium,17200000,Booked
+FLAT-054,City Heights,"North Nazimabad, Karachi",10,3,3,1320,Large,16800000,Available
+FLAT-055,City Heights,"Clifton, Karachi",15,2,2,1050,Medium,24300000,Available
+FLAT-056,City Heights,"Clifton, Karachi",4,2,1,940,Medium,18000000,Booked
+FLAT-057,City Heights,"Clifton, Karachi",4,3,2,1730,Luxury,39300000,Booked
+FLAT-058,Ocean Tower,"Clifton, Karachi",20,3,2,1600,Large,33200000,Available
+FLAT-059,City Heights,"Clifton, Karachi",9,3,3,1860,Luxury,39000000,Available
+FLAT-060,Sunrise Residency,"Scheme 33, Karachi",11,3,3,1370,Large,15100000,Available
+FLAT-061,Ocean Tower,"Gulshan-e-Iqbal, Karachi",7,3,3,2140,Luxury,33000000,Booked
+FLAT-062,Ocean Tower,"Clifton, Karachi",7,3,2,1960,Luxury,48200000,Available
+FLAT-063,Ocean Tower,"Scheme 33, Karachi",12,3,2,2000,Luxury,26200000,Booked
+FLAT-064,Ocean Tower,"Clifton, Karachi",9,2,2,1050,Medium,18800000,Available
+FLAT-065,Sunrise Residency,"North Nazimabad, Karachi",15,3,2,2160,Luxury,32900000,Booked
+FLAT-066,City Heights,"Clifton, Karachi",5,2,2,670,Small,11900000,Available
+FLAT-067,Ocean Tower,"Scheme 33, Karachi",11,3,3,1360,Large,16300000,Available
+FLAT-068,Green View Apartments,"Gulshan-e-Iqbal, Karachi",18,1,1,800,Small,11800000,Available
+FLAT-069,City Heights,"Gulshan-e-Iqbal, Karachi",7,1,1,650,Small,9100000,Available
+FLAT-070,Green View Apartments,"Scheme 33, Karachi",15,1,1,830,Small,9500000,Booked
+FLAT-071,Green View Apartments,"Gulshan-e-Iqbal, Karachi",4,2,1,700,Small,11600000,Available
+FLAT-072,Sunrise Residency,"North Nazimabad, Karachi",3,3,2,2150,Luxury,29000000,Booked
+FLAT-073,Green View Apartments,"Clifton, Karachi",12,1,1,830,Small,15500000,Booked
+FLAT-074,Ocean Tower,"Gulshan-e-Iqbal, Karachi",16,3,2,1300,Large,20600000,Available
+FLAT-075,Ocean Tower,"Scheme 33, Karachi",17,2,2,1030,Medium,14200000,Booked
+FLAT-076,Ocean Tower,"Scheme 33, Karachi",3,3,3,1400,Large,15700000,Booked
+FLAT-077,City Heights,"Scheme 33, Karachi",16,3,3,1910,Luxury,26500000,Available
+FLAT-078,Sunrise Residency,"Scheme 33, Karachi",20,3,3,1400,Large,20200000,Available
+FLAT-079,Ocean Tower,"North Nazimabad, Karachi",16,3,3,1130,Medium,18200000,Available
+FLAT-080,Green View Apartments,"North Nazimabad, Karachi",13,1,1,740,Small,12300000,Available
+FLAT-081,Green View Apartments,"Clifton, Karachi",12,3,3,1430,Large,31100000,Available
+FLAT-082,City Heights,"North Nazimabad, Karachi",4,2,1,710,Small,9100000,Available
+FLAT-083,Green View Apartments,"North Nazimabad, Karachi",4,3,3,1530,Large,19800000,Available
+FLAT-084,Sunrise Residency,"Gulshan-e-Iqbal, Karachi",9,3,3,1300,Large,21900000,Booked
+FLAT-085,Green View Apartments,"Gulshan-e-Iqbal, Karachi",4,3,3,1100,Medium,17200000,Available
+FLAT-086,Sunrise Residency,"Clifton, Karachi",9,3,3,1350,Large,24800000,Available
+FLAT-087,Green View Apartments,"North Nazimabad, Karachi",5,1,1,830,Small,9900000,Available
+FLAT-088,Ocean Tower,"Clifton, Karachi",17,3,3,2080,Luxury,50200000,Booked
+FLAT-089,City Heights,"Gulshan-e-Iqbal, Karachi",20,3,3,1890,Luxury,28000000,Booked
+FLAT-090,City Heights,"Gulshan-e-Iqbal, Karachi",6,1,1,700,Small,8300000,Available
+FLAT-091,Green View Apartments,"Scheme 33, Karachi",8,3,3,1880,Luxury,24500000,Booked
+FLAT-092,Ocean Tower,"North Nazimabad, Karachi",19,3,2,1190,Medium,15600000,Available
+FLAT-093,Sunrise Residency,"Gulshan-e-Iqbal, Karachi",5,3,3,1190,Medium,15700000,Booked
+FLAT-094,Ocean Tower,"Scheme 33, Karachi",15,3,2,1440,Large,17600000,Booked
+FLAT-095,Ocean Tower,"Gulshan-e-Iqbal, Karachi",20,3,2,1980,Luxury,31300000,Available
+FLAT-096,Green View Apartments,"Gulshan-e-Iqbal, Karachi",19,1,1,670,Small,12100000,Available
+FLAT-097,Ocean Tower,"North Nazimabad, Karachi",9,4,4,2030,Luxury,31500000,Available
+FLAT-098,City Heights,"Gulshan-e-Iqbal, Karachi",11,3,3,1430,Large,21600000,Booked
+FLAT-099,Ocean Tower,"Gulshan-e-Iqbal, Karachi",18,4,4,1880,Luxury,25400000,Available
+FLAT-100,Ocean Tower,"Gulshan-e-Iqbal, Karachi",17,3,3,1330,Large,21800000,Available
